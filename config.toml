@@ -1,10 +1,10 @@
 baseURL = "https://Bethany.github.io"
 # website language
-languageCode = "en"
+languageCode = "zh"
 # [en, zh, ...] determines which i18n file to use
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 # website title
-title = "Shuzang's Blog"
+title = "Bethany's Blog"
 # theme
 theme = "LoveIt"
 # whether to use git commit log to generate lastmod record
